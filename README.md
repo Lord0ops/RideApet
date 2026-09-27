@@ -7,7 +7,7 @@ Script para el juego de Roblox **Ride a Pet** con su propia interfaz para activa
 Pega esto en tu executor (cambia `TU_USUARIO` y `TU_REPO` por los de este repositorio):
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/RideAPetHub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lord0ops/RideApet/main/RideAPetHub.lua"))()
 ```
 
 ## Controles
